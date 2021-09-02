@@ -1,5 +1,5 @@
 # Datastructures & Algorithms
 
-[Big O Notation](./big-o-notation.md)
+[Big O Notation](bigO/big-o-notation.md)
 
 
